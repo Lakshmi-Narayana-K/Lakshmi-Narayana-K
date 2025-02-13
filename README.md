@@ -1,6 +1,5 @@
 # 💫 About Me:
 # Hello, I'm Lakshmi Narayana K
-![Contributions in the Last Year](![image](https://github.com/user-attachments/assets/3bef789b-89b0-44ad-a2df-114bb6f7fd88))
 
 **Work Email Integration:**  
 My GitHub is connected to my work email, so certain stats might not appear here. Don’t worry—I'm actively pushing code and working on several projects.
