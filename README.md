@@ -1,55 +1,26 @@
 # 💫 About Me:
 # Hello, I'm Lakshmi Narayana K
+![Contributions in the Last Year](![image](https://github.com/user-attachments/assets/3bef789b-89b0-44ad-a2df-114bb6f7fd88))
 
-Welcome to my GitHub! Below you’ll find a concise snapshot of the work I’m doing and my current focuses. My profile is linked to my work email, so some stats may be hidden, but I promise there’s plenty happening behind the curtain.
+**Work Email Integration:**  
+My GitHub is connected to my work email, so certain stats might not appear here. Don’t worry—I'm actively pushing code and working on several projects.
 
----
+### What I'm Working On
+- **Copilot License Accelerator:** Optimizing Microsoft 365 licenses with AI-driven analytics  
+- **VoiceCoreIQ:** Multilingual bot integration using Azure Cognitive Services  
+- **TeamsCoreIQ:** AI-powered root cause analysis and proactive alerts via Azure OpenAI  
+- **Ezaix Website:** Built with Framer.io for speed and seamless UX
 
-## 1. Work Email Integration
-👉 **Heads up**: If you don’t see my contribution stats, it’s because this account is attached to my work email. Rest assured, I’m active, committing code, and exploring new tech daily.
+### Currently Learning
+- Advanced Data Structures & Algorithms  
+- ML fundamentals and deep learning concepts
 
----
+### Ask Me About
+- Full-stack development (React.js, Node.js, Django)  
+- Azure Cognitive Services and OpenAI integrations  
 
-## 2. 🚀 Projects I'm Currently Working On
-1. **Copilot License Accelerator**  
-   - **Goal**: Monitor and optimize Microsoft 365 licenses (including Copilot and Teams) with AI-driven analytics.  
-   - **Tech Stack**: Azure Cloud, Microsoft Graph APIs.  
-   - **Impact**: Achieved ~15% cost savings through real-time license utilization insights.
-
-2. **VoiceCoreIQ**  
-   - **Goal**: Provide multilingual support on Microsoft Teams, complete with real-time language translation.  
-   - **Tech Stack**: Azure Cognitive Services, React-based dashboards, secure agent integration.  
-   - **Impact**: Handles over 10,000 interactions/month in 20+ languages.
-
-3. **TeamsCoreIQ**  
-   - **Goal**: Use Azure OpenAI to offer AI-driven root cause analysis and proactive alerts for telephony issues.  
-   - **Tech Stack**: Azure OpenAI, real-time telemetry, dynamic dashboards.  
-   - **Impact**: Cuts telephony downtime by ~30%, enhancing call quality and efficiency.
-
-4. **Ezaix Website**  
-   - **Goal**: Deliver a high-performance online presence using Framer.io.  
-   - **Tech Stack**: Framer.io for visual design and responsiveness.  
-   - **Impact**: Doubled responsiveness compared to a standard React.js setup.
-
----
-
-## 3. 🌱 Currently Learning
-- **Advanced Data Structures & Algorithms**: Aiming to refine algorithmic efficiency.  
-- **Machine Learning Foundations**: Delving deeper into deep learning and reinforcement learning.
-
----
-
-## 4. 💬 Ask Me About
-- **Full-Stack Development**: Including React.js, Node.js, Django, and TypeScript best practices.  
-- **Azure & OpenAI Integrations**: Building robust AI and cognitive solutions in the cloud.  
-- **Scalable Systems**: Real-time data processing and cost-optimization strategies.
-
----
-
-## 5. ⚡ Fun Fact
-I keep a keen interest in quantum mechanics, particularly how it might shape cryptography and computing. While my main focus is AI and ML, I love exploring futuristic tech. 
-
-Feel free to reach out if you’d like to chat or collaborate!
+### Fun Fact
+I’m fascinated by the possibilities of quantum mechanics and how it may shape future technology!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lakshminarayana03/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shikasan03) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:klnarayanaIIT@outlook.com) 
